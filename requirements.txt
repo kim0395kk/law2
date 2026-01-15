@@ -1,2 +1,6 @@
-streamlit>=1.32
-requests>=2.31
+streamlit==1.41.1
+google-generativeai
+groq
+requests
+supabase
+xmltodict
