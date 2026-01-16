@@ -1,6 +1,5 @@
-streamlit==1.41.1
+streamlit
+pandas
 google-generativeai
 groq
-requests
 supabase
-xmltodict
